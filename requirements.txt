@@ -1,0 +1,17 @@
+matplotlib
+numpy
+scipy
+Cython
+tqdm
+bridson
+easydict
+scikit-image
+Pillow
+imgaug
+tensorboard
+graphviz
+opencv-python-headless
+albumentations
+pytorch
+torchvision
+gluoncv-torch
